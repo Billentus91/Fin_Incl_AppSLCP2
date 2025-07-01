@@ -1,6 +1,6 @@
 # Financial Inclusion Prediction App
 
-This is a Streamlit web app that predicts whether an individual in East Africa is likely to own a bank account, based on demographic and socioeconomic data.
+This is a Streamlit web app that predicts whether an individual in Africa is likely to own a bank account, based on demographic and socioeconomic data.
 
 ## 🔍 Dataset
 The model was trained on the **Financial Inclusion in Africa** dataset from the Zindi platform. It contains demographic features like:
